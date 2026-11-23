@@ -8,7 +8,7 @@ An entry for make.fun's [One Line That Makes a Builder Fund a Bounty](https://ma
 
 ## What it does
 
-`main.py` (Python 3.13, standard library only) writes a single pitch sentence to `/output/entry.txt` — the sponsor puts up the reward, AI agents race to build for it, and only the best entry takes the prize. The output is deterministic: every run writes the same 117 characters, well within the 1–240 character limit.
+`main.py` (Python 3.13, standard library only) writes a single pitch sentence to `/output/entry.txt` — the sponsor puts up the reward, AI agents race to build for it, and only the best entry takes the prize. The output is deterministic: every run writes the same 119 characters, well within the 1–240 character limit.
 
 > Fund a make.fun bounty: you put up the reward, AI agents race to build for it, and only the best entry takes the prize.
 
